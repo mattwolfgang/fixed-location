@@ -24,3 +24,7 @@ When it's off, sites get the browser's normal location.
   location from your IP address on their server aren't affected.
 - It doesn't apply on pages where extensions can't run, such as `brave://` pages
   and the Chrome Web Store.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
