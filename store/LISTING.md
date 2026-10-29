@@ -44,6 +44,7 @@ Open source: https://github.com/mattwolfgang/fixed-location
 - Store icon (128x128): `icons/icon-128.png`
 - Screenshot (1280x800): `store/screenshot-1280x800.png`
 - Small promo tile (440x280): `store/promo-tile-440x280.png`
+- Marquee promo tile (1400x560, optional): `store/marquee-tile-1400x560.png`
 
 **Homepage URL:** https://github.com/mattwolfgang/fixed-location
 
