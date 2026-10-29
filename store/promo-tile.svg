@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280"
+     font-family="Liberation Sans, Arial, sans-serif">
+  <!-- Small promo tile. Render with: rsvg-convert store/promo-tile.svg -o store/promo-tile-440x280.png -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2e7d32"/><stop offset="1" stop-color="#1b5e20"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="280" fill="url(#bg)"/>
+  <rect x="32" y="85" width="110" height="110" rx="24" fill="#fff"/>
+  <g transform="translate(39 92) scale(0.75)">
+    <path d="M64 12c-21.5 0-39 17-39 38.2C25 79 64 116 64 116s39-37 39-65.8C103 29 85.5 12 64 12z" fill="#2e7d32"/>
+    <path d="M42 54 64 34l22 20v20H42z" fill="#fff"/>
+    <rect x="58" y="60" width="12" height="14" fill="#2e7d32"/>
+  </g>
+  <text x="164" y="128" font-size="31" font-weight="bold" fill="#fff">Fixed Location</text>
+  <g font-size="17" fill="#fff" fill-opacity="0.92">
+    <text x="164" y="160">Your location, set by hand,</text>
+    <text x="164" y="182">for computers without GPS.</text>
+  </g>
+</svg>

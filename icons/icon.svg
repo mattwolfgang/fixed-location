@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Map pin over a home roofline: a location you set once and keep. -->
+  <path d="M64 12c-21.5 0-39 17-39 38.2C25 79 64 116 64 116s39-37 39-65.8C103 29 85.5 12 64 12z"
+        fill="#2e7d32"/>
+  <path d="M42 54 64 34l22 20v20H42z" fill="#fff"/>
+  <rect x="58" y="60" width="12" height="14" fill="#2e7d32"/>
+</svg>
